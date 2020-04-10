@@ -1,0 +1,4 @@
+<view class="turntable">
+  <canvas type="2d" style="transform:{{'rotate(' + rotate + 'deg)'}};width: 600rpx;height: 600rpx" class="turntableCanvas" id='turntable'></canvas>
+  <image bindtap="start" class="zhizhen" src="../../img/zhizhen.png"></image>
+</view>
