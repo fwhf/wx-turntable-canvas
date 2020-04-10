@@ -3,7 +3,7 @@
 
 npm下载：
 ```
-npm i wx-wx-turntable-canvas
+npm i wx-turntable-canvas
 ```  
 小程序代码片段：
 ```
