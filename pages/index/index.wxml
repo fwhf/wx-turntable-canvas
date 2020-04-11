@@ -2,3 +2,4 @@
   <canvas type="2d" style="transform:{{'rotate(' + rotate + 'deg)'}};width: 600rpx;height: 600rpx" class="turntableCanvas" id='turntable'></canvas>
   <image bindtap="start" class="zhizhen" src="../../img/zhizhen.png"></image>
 </view>
+<view>使用canvas绘制大转盘（版本库不要太低，要支持同层渲染，同时编辑器内可能存在问题，请用真机测试）</view>
